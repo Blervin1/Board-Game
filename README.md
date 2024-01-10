@@ -17,4 +17,4 @@ Immerse yourself in a vibrant world of interactive squares! This project feature
 
 Feel the joy of color and animation as you interact with the squares. Dive into this immersive experience and enjoy the vibrant journey through the Dynamic Colorful Square Board! 🚀
 
-![INFO GAME-PLAY](https://github.com/Blervin1/Aim-Training-Game/raw/main/info-playgame.gif)
+![INFO GAME-PLAY](https://github.com/Blervin1/Board-Game/raw/main/info-playgame.gif)
