@@ -1,6 +1,6 @@
 ### Dynamic Colorful Square Board
 
-🌈 Feel free to explore the [Dynamic Colorful Square Board](https://blervin1.github.io/Aim-Training-Game/)🌈
+🌈 Feel free to explore the [Dynamic Colorful Square Board](https://blervin1.github.io/Board-Game/)🌈
 
 Welcome to the Dynamic Colorful Square Board project! 🎨
 
