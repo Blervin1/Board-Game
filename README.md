@@ -1,5 +1,7 @@
 ### Dynamic Colorful Square Board
 
+🌈 Feel free to explore the [Dynamic Colorful Square Board](https://blervin1.github.io/Aim-Training-Game/)🌈
+
 Welcome to the Dynamic Colorful Square Board project! 🎨
 
 #### Overview
@@ -14,3 +16,5 @@ Immerse yourself in a vibrant world of interactive squares! This project feature
 - **HTML, CSS, JavaScript:** The foundation of this project, combining the power of web technologies to structure, style, and animate the dynamic squares. 💻
 
 Feel the joy of color and animation as you interact with the squares. Dive into this immersive experience and enjoy the vibrant journey through the Dynamic Colorful Square Board! 🚀
+
+![INFO GAME-PLAY](https://github.com/Blervin1/Aim-Training-Game/raw/main/info-playgame.gif)
